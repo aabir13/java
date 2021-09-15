@@ -1,8 +1,8 @@
-Anagrams
+//Code to check whether the entered string falls under the condition of Anagrams
 
 import java.util.Scanner;
 
-public class Solution {
+public class Anagrams {
 
     static boolean isAnagram(String a, String b) {
         int c=0, c1=0, c2=0;
