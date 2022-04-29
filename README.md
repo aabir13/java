@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/98/9/lvH8Qg.png" />
+<img width="50%" src="https://cdn.wallpapersafari.com/98/9/lvH8Qg.png" />
 
 # Java Programming
 
