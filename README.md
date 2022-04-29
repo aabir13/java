@@ -2,8 +2,8 @@
 
 Java is a **programming language** and a **platform**. Java is a high level, robust, object-oriented and secure programming language. The repository consists of varying codes on *Core Java* working through basic to advanced problems covering all the concepts of *Object Oriented Programming*. 
 
-div align="center">
-<img width="50%" src="https://cdn.wallpapersafari.com/98/9/lvH8Qg.png" />
+<div align="center">
+    <img width="50%" src="https://cdn.wallpapersafari.com/98/9/lvH8Qg.png" />
 </div>
 
 ## Running
